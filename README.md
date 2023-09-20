@@ -24,9 +24,9 @@
 <br />
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renanferreirasimoes&show_icons=true&locale=en" alt="renanferreirasimoes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renanferreirasimoes&show_icons=true&locale=en" alt="Renan Simões" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renanferreirasimoes&" alt="renanferreirasimoes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RenanFerreiraSimoes&" alt="Renan Simões" /></p>
 
 
 ## 🌏 **CONNECT WITH ME**
