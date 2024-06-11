@@ -12,7 +12,6 @@
 ## Fun Fact 🎈:
 
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
@@ -52,9 +51,6 @@
 <!--<a  href="https://www.linkedin.com/company/hi-coders/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>-->
-<a href="https://codepen.io/renan.fs"> 
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
-</a>
 <br />
 
 ## 🕸️ **WEB DEV**
@@ -92,7 +88,6 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
-[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)][repo]
 
 ## 📅 **DATABASES**
 
@@ -129,7 +124,6 @@
 ## 📄 **CODE EDITOR & IDES**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")][repo]
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][repo]
 
@@ -158,14 +152,12 @@
 <!--[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]-->
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)][gog]
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)][quora]
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 
 [github]: https://github.com/
 [google]: https://www.google.com
 [wiki]: https://en.wikipedia.org/wiki/Main_Page
-[quora]: https://www.quora.com/
 [udemy]: https://www.udemy.com/
 [gog]: https://www.geeksforgeeks.org/
 [sof]: https://stackoverflow.com/
